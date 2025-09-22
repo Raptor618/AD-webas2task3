@@ -17,6 +17,11 @@ table {
   text-align: center;
 }
 
+.highliht_row {
+  background-color: #ffeb3b;
+  font-weight: bold;
+}
+
 th {
   background-color: #4a8fc7;
   color: rgb(255, 255, 255);
