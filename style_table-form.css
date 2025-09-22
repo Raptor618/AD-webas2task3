@@ -35,12 +35,6 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) {
   background-color: #ffffff;
 }
-
-.highlight-row {
-  background-color: #ffeb3b;
-  font-weight: bold;
-}
-
 .feedback-form {
   width: 400px;
   margin: 0 auto 40px;
