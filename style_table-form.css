@@ -17,11 +17,6 @@ table {
   text-align: center;
 }
 
-.highliht_row {
-  background-color: #ffeb3b;
-  font-weight: bold;
-}
-
 th {
   background-color: #4a8fc7;
   color: rgb(255, 255, 255);
@@ -31,6 +26,11 @@ th {
 td {
   border: 1px solid #161616;
   padding: 8px;
+}
+
+.highliht_row {
+  background-color: #ffeb3b;
+  font-weight: bold;
 }
 
 tbody tr:nth-child(even) {
