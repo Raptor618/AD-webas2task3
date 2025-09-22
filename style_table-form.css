@@ -76,3 +76,13 @@ tbody tr:nth-child(odd) {
 .feedback-form button:hover {
   background-color: #316381;
 }
+.footer {
+  position: fixed; 
+  padding: 10px;     
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #62d3e7;
+  color: #000000;
+  text-align: center;
+}
