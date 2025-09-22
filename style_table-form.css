@@ -28,17 +28,16 @@ td {
   padding: 8px;
 }
 
-.highliht_row {
-  background-color: #ffeb3b;
-  font-weight: bold;
-}
-
 tbody tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
 tbody tr:nth-child(odd) {
   background-color: #ffffff;
+}
+.highliht_row {
+  background-color: #ffeb3b;
+  font-weight: bold;
 }
 .feedback-form {
   width: 400px;
